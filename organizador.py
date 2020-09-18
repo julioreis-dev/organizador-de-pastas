@@ -64,7 +64,7 @@ def mover_pasta(origem, destino, ext):
 
 
 pasta_origem = 'Downloads'
-pasta_destino = r'C:\Users\ay4m\Desktop\outros'
+pasta_destino = r'C:\Users\(chave)\Desktop\outros'
 criar_pastas(enderecar_arquivo(pasta_destino))
 arquivos_pasta = catalogar_arquivos(pasta_origem)
 for arquivo in arquivos_pasta:
